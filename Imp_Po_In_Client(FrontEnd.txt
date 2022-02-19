@@ -1,0 +1,18 @@
+Memories Mern Application 
+
+1) You can create Empty react app by using this commond (npx create-react-app ./)
+
+2) npm install axios
+axios is used to make an API Request
+
+3) they well add the dependency that require for frontend (npm install axios moment react-file-base64 redux redux-thunk)
+
+==> Axios is a Javascript library used to make HTTP requests from node. js or XMLHttpRequests from the browser and it supports the Promise API that is native to JS ES6.
+ It can be used intercept HTTP requests and responses and enables client-side
+
+4) we delete the src folder from frontend b/c we don't need all the thing that is in. and we create 
+one another src folder for it.
+
+5) in this folder we create index.js file b/c this must be include (this file we connect react application with index.html) 
+
+Till 9 min (Date 20/2/022)

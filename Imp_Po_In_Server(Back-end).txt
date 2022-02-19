@@ -1,0 +1,17 @@
+1) We will execute in Server Terminal (npm init -y)
+This means 
+You can use it whenever you need to create a new Node.js project.
+ When the file exists, you can add a dependency or devDependency to the file and install it using npm.
+
+ 2) Run This Commond( npm install body-parser cors express mongoose nodemon)
+
+ ==>Body-parser is the Node.js body parsing middleware. It is responsible for parsing the incoming request bodies in a middleware before you handle it.
+ ==> The CORS standard is needed because it allows servers to specify not only who can access the assets, but also how they can be accessed. ... With CORS, a server can 
+ specify who can access its assets and which HTTP request methods are allowed from external resources.
+
+==> Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. js. It manages relationships between data, provides schema validation, and is used to translate 
+between objects in code and the representation of those objects in MongoDB.
+ ==>nodemon is a tool that helps develop node. js based applications by automatically restarting the node application when file changes in the directory are detected.
+ ==> What is Middlewar?
+ ==> Middleware is software containing functions that execute during the request-response 
+ cycle and have access to both the request object (req) and the response object (res).
